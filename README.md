@@ -1,2 +1,2 @@
 - [Preview](https://velzepooz.github.io/fe-mateacademy/)
-    - [Pull Request](https://github.com/velzepooz/fe-mateacademy/pull/1/files)
+- [Pull Request](https://github.com/velzepooz/fe-mateacademy/pull/1/files)
